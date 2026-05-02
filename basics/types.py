@@ -1,2 +1,3 @@
 full_name = input("What's your name? ")
-print(full_name)
+age = input("What's your age? ")
+print(full_name, type(age))
