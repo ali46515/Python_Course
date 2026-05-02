@@ -14,3 +14,6 @@ print(string.casefold())
 print(string.index('n'))
 print(string.rfind(" "))
 print(string.find(" "))
+
+print("Ali" * 3)
+print("Ali" in string)
