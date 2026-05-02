@@ -1,3 +1,4 @@
 age = 30
-age = 20
-print(age)
+full_name = "Ali Arshad"
+sight = 1.5
+print(age, full_name, sight)
