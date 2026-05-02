@@ -5,7 +5,7 @@ sight = 1.5
 # print(age, full_name, sight)
 
 # String concatenation
-first_name = 'Ali'
+first_name = "Ali"
 last_name = "Arshad"
 # print(first_name + " " + last_name)
 
@@ -20,3 +20,8 @@ print(True or False)
 print(not 1)
 print(not 0)
 print(1 == True)
+
+# Bolean with operators
+print(1 > 3)
+print("3" == 3)
+print("3" != 3)
